@@ -1,4 +1,4 @@
-# 🚀 Projeto DIO - IA que Orienta: Criando Seu Roteiro de Carreira
+# 🚀 Projeto DIO - IA que orienta: Criando seu roteiro de carreira
 
 ![Status](https://img.shields.io/badge/status-Concluído-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
